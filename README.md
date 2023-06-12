@@ -1,6 +1,6 @@
 # HooBank - A banking website frontend using React.js & Tailwind CSS
 
-A single page website for displaying the features of a bank.
+A single page website for displaying the features of a bank. Completely responsive for all devices. 
 
 Demo link : https://main--incandescent-banoffee-81b0ea.netlify.app/
 
